@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\TestSortList\\TestSortList.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\ListOfSortingAlgorithms\\ListOfSortingAlgorithms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\ListOfSortingAlgorithms\\ListOfSortingAlgorithms.csproj",
+        "projectName": "ListOfSortingAlgorithms",
+        "projectPath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\ListOfSortingAlgorithms\\ListOfSortingAlgorithms.csproj",
+        "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\ListOfSortingAlgorithms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\TestSortList\\TestSortList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\TestSortList\\TestSortList.csproj",
+        "projectName": "TestSortList",
+        "projectPath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\TestSortList\\TestSortList.csproj",
+        "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\TestSortList\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\ListOfSortingAlgorithms\\ListOfSortingAlgorithms.csproj": {
+                "projectPath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Курсы\\Полезное\\RaceOfSort\\ListOfSortingAlgorithms\\ListOfSortingAlgorithms.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
